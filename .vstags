@@ -4,3 +4,12 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+clickElement	win_practice_ui.pl	86;"	s
+inputText	win_practice_ui.pl	102;"	s
+inspect	win_practice_ui.pl	120;"	s
+verify_text	win_practice_ui.pl	145;"	s
+xpath_with	win_practice_ui.pl	160;"	s
+cleanUp	win_practice_ui.pl	216;"	s
+TC001	win_practice_ui.pl	223;"	s
+TC002	win_practice_ui.pl	394;"	s
+TC003	win_practice_ui.pl	425;"	s
