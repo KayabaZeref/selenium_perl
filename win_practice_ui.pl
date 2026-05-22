@@ -13,7 +13,7 @@ my $logger = Log::Log4perl->get_logger();
 $logger->info("=================== STARTING WINDOWS UI TEST ===================");
 
 # 2. Test Configuration & Credentials
-my $target_url = 'https://www.facebook.com'; # Change to your target site
+my $target_url = 'https://demoqa.com'; # Change to your target site
 my $username   = 'pdphuong';
 my $password   = 'your_secure_password';
 
